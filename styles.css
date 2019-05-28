@@ -1,0 +1,19 @@
+h1 {
+    border-style: double;
+}
+h2 {
+    border-style: double;
+}
+p {
+   border-style: double;
+}
+
+body {
+    background-color: lightgrey;
+}
+li {
+    text-align: left
+    border-style: double;
+    
+}
+
