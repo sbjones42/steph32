@@ -11,9 +11,14 @@ p {
 body {
     background-color: lightgrey;
 }
+
 li {
-    text-align: left
+    text-align: left;
     border-style: double;
     
+}
+
+img {
+    width: 203px;
 }
 
